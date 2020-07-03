@@ -1,0 +1,6 @@
+guru:
+  jms:
+    user: JMS Username
+    password: jms pass
+    durl: http:jms
+  
